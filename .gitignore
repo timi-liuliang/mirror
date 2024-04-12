@@ -1,3 +1,5 @@
-/build
-/.idea
-/bin
+/Build
+/*.sln
+/Lib
+/Bin
+/.vs

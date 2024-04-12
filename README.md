@@ -1,2 +1,0 @@
-# gslam
-Gaussian SLAM
