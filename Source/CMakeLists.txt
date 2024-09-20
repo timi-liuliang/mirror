@@ -11,7 +11,7 @@ ADD_SUBDIRECTORY("${ECHO_GAME_NAME}")
 # Add thirdparty libraries
 ADD_SUBDIRECTORY("thirdparty/g2o")
 ADD_SUBDIRECTORY("thirdparty/DBoW2")
-ADD_SUBDIRECTORY("thirdparty/orb-slam3")
+ADD_SUBDIRECTORY("thirdparty/dense-slam")
 ADD_SUBDIRECTORY("thirdparty/mini-slam")
 ADD_SUBDIRECTORY("thirdparty/boost_1.83.0")
 ADD_SUBDIRECTORY("thirdparty/libtorch")

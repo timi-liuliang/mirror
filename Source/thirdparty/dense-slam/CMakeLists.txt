@@ -1,5 +1,5 @@
 # Set Module Name
-SET(MODULE_NAME orb-slam3)
+SET(MODULE_NAME dense-slam)
 
 # message
 MESSAGE( STATUS "Configuring module: ${MODULE_NAME} ...")
